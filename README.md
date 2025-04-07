@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rexel266
-- 👀 I’m interested in Web Development, Python Programming, New technologies, learning
-- 🌱 I’m currently learning Web development and Python
+- 👀 I’m interested in learning
+- 🌱 I’m currently using this platform to document my personal projects related to Windows Server.
 - 💞️ I’m looking to collaborate on dunno, where can I collaborate?
 - 📫 How to reach me , you can reach me here!
 
